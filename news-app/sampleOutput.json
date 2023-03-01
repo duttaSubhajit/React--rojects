@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Vaughan shooting: Five killed by gunman in Canada apartment block - BBC",
+            "description": "Police shot dead the suspect and found five victims scattered in several flats of the apartment block.",
+            "url": "https://www.bbc.com/news/world-us-canada-64024023",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DD6C/production/_128048665_33a5dae84b1e0b239063df85305c52e0584c3a601490_262_2020_11371000x563.jpg",
+            "publishedAt": "2022-12-19T15:48:15Z",
+            "content": "Five people have died after a gunman opened fire at a block of flats in Toronto, Canada.\r\nPolice responded to reports of the shooting at the building in Vaughan, about 30km (19 miles) north of Toront… [+1646 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kara Scannell, Patrick Oppmann, Allison Morrow",
+            "title": "Sam Bankman-Fried set to drop extradition fight - CNN",
+            "description": "FTX founder Sam Bankman-Fried Monday morning arrived in court in the Bahamas where he is expected to drop his extradition fight, clearing a significant hurdle to return him to US soil to be prosecuted on multiple charges of fraud and conspiracy.",
+            "url": "https://www.cnn.com/2022/12/19/business/sbf-extradition-bahamas/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221214130507-sam-bankman-fried-nassau-bahamas-court-1213.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-19T15:45:00Z",
+            "content": "FTX founder Sam Bankman-Fried Monday morning arrived in court in the Bahamas where he is expected to drop his extradition fight, clearing a significant hurdle to return him to US soil to be prosecute… [+2280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCRA Sacramento"
+            },
+            "author": "Erin Heft",
+            "title": "Triple threat: Flu, COVID-19 and RSV wreaking havoc before holiday travel - KCRA Sacramento",
+            "description": "Hospitals across the country are hitting capacity as flu, COVID-19 and respiratory syncytial virus cases rise into the millions.",
+            "url": "https://www.kcra.com/article/california-flu-covid-rsv-holiday-travel-sacramento/42277642",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/b5eb9b3b-e373-4b17-b849-215133339cb4/b5eb9b3b-e373-4b17-b849-215133339cb4_image.jpg?crop=0.786xw:0.786xh;0,0&resize=1200:*",
+            "publishedAt": "2022-12-19T15:38:00Z",
+            "content": "SACRAMENTO, Calif. —Hospitals across the country are hitting capacity as flu, COVID-19 and respiratory syncytial virus cases rise into the millions.\r\nThe spread of COVID-19 has increased by more than… [+1890 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Patriots' debacle leads to Raiders win and NFL fans are left stunned: 'I can't stop laughing' - Fox News",
+            "description": "The New England Patriots completely fumbled the ending of their game against the Las Vegas Raiders and instead of going into overtime, they gave the game away.",
+            "url": "https://www.foxnews.com/sports/patriots-leads-to-raiders-win-nfl-fans-are-left-stunned-cant-stop-laughing",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Mac-Jones5.jpg",
+            "publishedAt": "2022-12-19T15:14:50Z",
+            "content": "The Las Vegas Raiders defeated the New England Patriots in one of the wildest endings to a game ever.\r\nWith the game tied at 24 apiece, Patriots running back Rhamondre Stevenson found a hole in the R… [+2561 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Rebecca Rosenberg",
+            "title": "Amber Heard settles defamation case with Johnny Depp for $1M - Fox News",
+            "description": "Amber Heard and Johnny Depp settle blockbuster defamation case after years sparring in court over allegations of domestic abuse, according to a source familiar with the negotiations.",
+            "url": "https://www.foxnews.com/entertainment/amber-heard-settles-defamation-case-johnny-depp-1m",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/depp-v-heard.jpg",
+            "publishedAt": "2022-12-19T15:07:48Z",
+            "content": "Amber Heard\r\n has agreed to pay Johnny Depp $1 million to settle his defamation claim against her, a source familiar with the deal told Fox News Digital.\r\nHeard, 36, will cough up the seven-figure su… [+3734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexandra Canal",
+            "title": "'Avatar' sequel misses estimates, but theater executives not concerned: 'Moviegoers are waiting' - Yahoo Finance",
+            "description": "\"Avatar: The Way of Water\" delivered director James Cameron his first $100 million opening weekend — but missed industry expectations of $170 million-plus.",
+            "url": "https://finance.yahoo.com/news/avatar-sequel-2-way-of-water-box-office-opening-weekend-150625562.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xXVtvNpiPFXe_XQkLO8zQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/1787e530-3a9a-11ed-bfdf-ec5f51283358",
+            "publishedAt": "2022-12-19T15:06:25Z",
+            "content": "Disney's (DIS) \"Avatar: The Way of Water\" delivered director James Cameron his first $100-million opening weekend but missed industry expectations of $170 million-plus.\r\nThe much-anticipated sequel, … [+4158 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Greg Norman",
+            "title": "Pope Francis reveals he has written a resignation letter in case of health issues - Fox News",
+            "description": "Pope Francis said in an interview he wrote a resignation letter and gave it to the Vatican secretary of state in case health issues prevent him from carrying out his role.",
+            "url": "https://www.foxnews.com/world/pope-francis-reveals-he-has-written-resignation-letter-potential-health-issues",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/GettyImages-1243193941-e1663075560906.jpg",
+            "publishedAt": "2022-12-19T15:05:02Z",
+            "content": "Pope Francis revealed he has written a resignation letter in case medical problems prevent him from carrying out his duties. \r\nFrancis, speaking to the Spanish newspaper ABC, said he wrote the letter… [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Karen Gilchrist, Natasha Turak",
+            "title": "Ukraine war live updates: Russian drone attack takes out power supplies in Kyiv; Ruble tumbles - CNBC",
+            "description": null,
+            "url": "https://www.cnbc.com/2022/12/19/ukraine-war-live-updates-russian-drone-attack-takes-out-power-supplies-in-kyiv-russian-rouble-tumbles.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107168140-1671443242727-gettyimages-1245722296-AA_19122022_996656.jpeg?v=1671443810&w=1920&h=1080",
+            "publishedAt": "2022-12-19T14:53:00Z",
+            "content": "U.K. Prime Minister Rishi Sunak is in the Latvian capital of Riga to meet with other members of the Joint Expeditionary Force (JEF), a U.K.-led alliance of European militaries that share tactical kno… [+795 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "LIVE: Suella Braverman delivers statement to Commons on Rwanda asylum policy - The Telegraph",
+            "description": "Suella Braverman, the Home Secretary, has said she is \"committed\" to making the plan to send migrants to Rwanda work.The Government's policy to send migrants...",
+            "url": "https://www.youtube.com/watch?v=BFMiKb4SS3Y",
+            "urlToImage": "https://i.ytimg.com/vi/BFMiKb4SS3Y/maxresdefault_live.jpg",
+            "publishedAt": "2022-12-19T14:37:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Doomed exoplanet will be obliterated as it spirals into a star - CNN",
+            "description": "Astronomers have found an exoplanet that is spiraling closer to its host star — and eventually, total obliteration.",
+            "url": "https://www.cnn.com/2022/12/19/world/doomed-exoplanet-aging-star-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221216151101-exoplanet-kepler-1658b.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-19T14:36:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAstronomers have come across an exoplanet with a gloom… [+3719 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Joe Prince-Wright",
+            "title": "Argentina beats France on penalties in epic World Cup final as Messi, Mbappe put on a show for the ages - NBC Sports",
+            "description": "Argentina beat France in the World Cup final on penalty kicks as an epic clash played out after a pulsating 3-3 draw in normal time, as Lionel Messi won his legacy defining World Cup.",
+            "url": "https://soccer.nbcsports.com/2022/12/19/argentina-vs-france-video-highlights-reaction-analysis-recap/",
+            "urlToImage": "https://soccer.nbcsports.com/wp-content/uploads/sites/14/2022/12/GettyImages-1450117181.jpg",
+            "publishedAt": "2022-12-19T14:04:00Z",
+            "content": "The 2022-23 Premier League fixtures are front and center as the new season has delivered so much drama so far and will do so again when it all returns after the World Cup break.\r\n[ VIDEO: Premier Lea… [+21205 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The News International"
+            },
+            "author": "Web Desk",
+            "title": "Kim Kardashian trolled over her gothic look for Christmas bash: She looks ridiculous - The News International",
+            "description": "Kim Kardashian's fans trolled the megastar for dressing up as 15-year-old teen at Paris Hilton’s mom Kathy Hilton's grand Christmas party.The reality TV star was slammed for going to a festive...",
+            "url": "https://www.thenews.com.pk/latest/1021700-kim-kardashian-trolled-over-her-gothic-look-for-christmas-bash",
+            "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2022-12-19/1021700_070039_updates.jpg",
+            "publishedAt": "2022-12-19T14:00:00Z",
+            "content": "Kim Kardashian's fans trolled the megastar for dressing up as 15-year-old teen at Paris Hiltons mom Kathy Hilton's grand Christmas party.\r\nThe reality TV star was slammed for going to a festive party… [+888 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Adam Kilgore",
+            "title": "Jaguars are on the rise with Trevor Lawrence, but Patriots can't close - The Washington Post",
+            "description": "In a week packed with spectacular plays, the Jaguars kept their playoff hopes alive behind Lawrence and the Patriots suffered an incomprehensible loss.",
+            "url": "https://www.washingtonpost.com/sports/2022/12/19/jaguars-trevor-lawrence-patriots-bill-belichick/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZWTCYWT2GRB43LPLZI3UXK4G54.jpg&w=1440",
+            "publishedAt": "2022-12-19T14:00:00Z",
+            "content": "Comment on this story\r\nWeek 15 in the NFL was an action movie with a gigantic budget and a director with a taste for gratuitous set pieces. It was a week of monumental plays rarely, if ever, seen bef… [+10859 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Rohan Goswami",
+            "title": "Binance.US to acquire bankrupt crypto exchange Voyager's assets for $1 billion, weeks after planned FTX deal failed - CNBC",
+            "description": "Binance.US will acquire the crypto assets and customer deposits of Voyager Digital in a $1.02 billion deal, weeks after a planned FTX-Voyager acquisition failed.",
+            "url": "https://www.cnbc.com/2022/12/19/binance-to-acquire-voyager-assets-weeks-after-ftx-deal-fell-through-bankruptcy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107084908-1657091956506-gettyimages-1406265768-0j5a1902_f33703a5-23f9-44d1-bf7f-11d0454f63ab.jpeg?v=1671458368&w=1920&h=1080",
+            "publishedAt": "2022-12-19T13:59:28Z",
+            "content": "Binance.US will acquire the crypto assets and customer deposits of Voyager Digital in a $1.02 billion deal, weeks after a planned FTX-Voyager acquisition failed as a result of FTX's collapse and Sam … [+1875 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Oli Welsh",
+            "title": "Oppenheimer trailer gives first look at Christopher Nolan’s atomic bomb epic - Polygon",
+            "description": "Nolan’s Oppenheimer movie, starring Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr., and Florence Pugh, will be going head to head against Greta Gerwig and Margot Robbie’s Barbie at the box office",
+            "url": "https://www.polygon.com/23516433/oppenheimer-trailer-christopher-nolan-cillian-murphy-release-date",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/DGwfVfuujCAxKnvJFbWfx1aMzjQ=/0x3489:3600x5374/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24302107/OPR_Tsr1Sht4_RGB_2.jpg",
+            "publishedAt": "2022-12-19T13:53:06Z",
+            "content": "The epic is heading for a strange head-to-head with Barbie at the box office"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "The Associated Press",
+            "title": "Turbulent Hawaiian Airlines flight seriously injures 11 people - CNBC",
+            "description": "A Hawaiian Airlines flight from Phoenix to Honolulu encountered severe turbulence shortly before landing, seriously injuring 11 people.",
+            "url": "https://www.cnbc.com/2022/12/19/turbulent-hawaiian-airlines-flight-seriously-injures-11-people.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107050644-1650675825986-ha.jpg?v=1671457781&w=1920&h=1080",
+            "publishedAt": "2022-12-19T13:49:41Z",
+            "content": "A flight from Phoenix to Honolulu carrying many people traveling for the holidays encountered severe turbulence shortly before landing, sending some unrestrained people and objects flying about the c… [+4306 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sarah E. Needleman, Aaron Tilley, Brent Kendall",
+            "title": "Epic Games, Maker of 'Fortnite,' to Pay $520 Million to Resolve FTC Allegations - The Wall Street Journal",
+            "description": "The agency alleged that the company invaded children’s privacy and tricked players of all ages into making unintended purchases",
+            "url": "https://www.wsj.com/articles/epic-games-maker-of-fortnite-to-pay-520-million-to-resolve-ftc-allegations-11671456744",
+            "urlToImage": "https://images.wsj.net/im-687850/social",
+            "publishedAt": "2022-12-19T13:32:00Z",
+            "content": "Epic Games Inc. has agreed to pay $520 million to resolve Federal Trade Commission allegations that the Fortnite videogame developer violated online privacy protections for children and tricked playe… [+437 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jason Samenow",
+            "title": "D.C.-area forecast: A dry chill yields to late-week rain before an Arctic blast - The Washington Post",
+            "description": "Expect freezing temperatures and a biting wind Christmas Eve and Christmas Day.",
+            "url": "https://www.washingtonpost.com/weather/2022/12/19/dc-weather-rain-cold-christmas/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EC6OYROG7JDLVNYHCKYJUC7G5U.jpg&w=1440",
+            "publishedAt": "2022-12-19T13:00:00Z",
+            "content": "Comment on this story\r\nA somewhat subjective rating of the days weather, on a scale of 0 to 10.\r\n4/10: Its no day at the beach, with below-average temperatures and a pesky breeze.\r\n<ul><li>Today: Par… [+3313 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Allison Chinchar",
+            "title": "Get ready for a 'polar plunge.' The first week of winter brings snow and bitterly cold temperatures - CNN",
+            "description": "Astronomical winter officially begins this Wednesday and Jack Frost will arrive in full force.",
+            "url": "https://www.cnn.com/2022/12/18/weather/weather-cold-air-eastern-us-winter/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221217103900-weather-6-to-10-day-temperature-outlook-card-12172022.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-19T12:45:00Z",
+            "content": "Astronomical winter officially begins this Wednesday and Jack Frost will arrive in full force. \r\nTemperatures will take a polar plunge this week, and even Florida wont be spared, thanks to a strong h… [+3384 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Anthea Rowan",
+            "title": "How hobbies may help gird against dementia - The Washington Post",
+            "description": "Activities that demand focus and industry are a whetstone to keeping cognition sharp.",
+            "url": "https://www.washingtonpost.com/wellness/2022/12/19/dementia-hobbies-lifestyle-changes/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YXT5QVC2NGDH3ZSQPIJPGKDNHM.jpg&w=1440",
+            "publishedAt": "2022-12-19T12:03:00Z",
+            "content": "Comment on this story\r\nTo many, the word hobby signifies something lightweight or trivial. Yet taking on a new hobby as one ages might provide an important defense against dementia, some experts say.… [+6480 chars]"
+        }
+    ]
+}
